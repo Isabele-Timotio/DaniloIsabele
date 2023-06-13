@@ -93,7 +93,6 @@ de raycast e iluminação sendo como bases principais para o desenvolvimento do 
   </li> </ul>
   <br>
   <h3> Sobre a iluminação </h3>
-  <br>
   Na iluminação utilizamos o pointlights no carro para ser os farol (curiosidade: a luz do farol da esquerda é maior que a da direita, assim como é na vida real). 
   Imagem demonstrando isto: ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/2bad2ce9-a909-4fc4-8a2d-b1085fe10982)
   <br>
@@ -103,6 +102,6 @@ de raycast e iluminação sendo como bases principais para o desenvolvimento do 
 <br>
 ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/6ca82843-53ed-495f-9645-a3461ef0d5dd)
 
-<h1> Contudo concluímos nosso jogo! Espero que gostem bastante e se quiserem reproduzir estão livres desde que deem os devidos crétidos</h1>
+<h2> Contudo concluímos nosso jogo! Espero que gostem bastante e se quiserem reproduzir estão livres desde que deem os devidos crétidos</h2>
   
 
