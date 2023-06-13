@@ -49,8 +49,11 @@ de raycast e iluminação sendo como bases principais para o desenvolvimento do 
     A corrotina <strong> ShootLaser() </strong> ativa o componente <strong> LineRenderer </strong> para tornar o raio laser visível por um tempo <strong> (laserduration) </strong> e, em seguida, o desativa novamente.
     <br>
     A corrotina <strong> ApagarTinta() </strong> espera por um período de tempo especificado <strong> (10f) </strong> e, em seguida, desativa o objeto da tinta.
-    // imagens
     </li> </ul> 
+    <br>
+    <h3> Imagens do jogo que aparecem os conceitos acima aplicados </h3>
+    ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/3cb2a1ad-b2ab-42d4-9406-61d7e375ee32)
+    ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/0ade107b-f3e5-49f6-b6cb-3703ac0e2013)
      <ul> <li>
      <strong> Script da câmera: </strong> Este código permite que a câmera no jogo seja controlada pelo movimento do mouse, proporcionando 
      uma experiência mais imersiva ao jogador.
@@ -72,5 +75,10 @@ de raycast e iluminação sendo como bases principais para o desenvolvimento do 
        <br>
      Por fim, <strong> transform.eulerAngles </strong> é usado para rotacionar a câmera de acordo com os <strong> valores </strong> atualizados de <strong> mouseX </strong> e <strong> mouseY </strong>, permitindo 
      que a câmera siga o movimento do mouse.
-      //imagens
+    
   </li> </ul>
+  <br>
+  <h3> Sobre a iluminação </h3>
+  <br>
+  
+
