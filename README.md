@@ -49,12 +49,20 @@ de raycast e iluminação sendo como bases principais para o desenvolvimento do 
     A corrotina <strong> ShootLaser() </strong> ativa o componente <strong> LineRenderer </strong> para tornar o raio laser visível por um tempo <strong> (laserduration) </strong> e, em seguida, o desativa novamente.
     <br>
     A corrotina <strong> ApagarTinta() </strong> espera por um período de tempo especificado <strong> (10f) </strong> e, em seguida, desativa o objeto da tinta.
-    </li> </ul> 
+   <br>
+    <br> 
+    <strong> Imagens do jogo com os script explicados: </strong>
     <br>
-    <h3> Imagens do jogo que aparecem os conceitos acima aplicados </h3>
-    ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/3cb2a1ad-b2ab-42d4-9406-61d7e375ee32)
-    ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/0ade107b-f3e5-49f6-b6cb-3703ac0e2013)
-     <ul> <li>
+    ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/3cb2a1ad-b2ab-42d4-9406-61d7e375ee32) //raycast
+    <br>
+    ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/0ade107b-f3e5-49f6-b6cb-3703ac0e2013) //raycast - depois que passa o tempo desaparece a tinta
+    <br>
+    ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/f96aa9e7-c665-4e8c-aad0-e51d870bc4b4)
+
+  </li> </ul> 
+    <br>
+    <br> 
+    <ul> <li>
      <strong> Script da câmera: </strong> Este código permite que a câmera no jogo seja controlada pelo movimento do mouse, proporcionando 
      uma experiência mais imersiva ao jogador.
      <br>
@@ -75,10 +83,26 @@ de raycast e iluminação sendo como bases principais para o desenvolvimento do 
        <br>
      Por fim, <strong> transform.eulerAngles </strong> é usado para rotacionar a câmera de acordo com os <strong> valores </strong> atualizados de <strong> mouseX </strong> e <strong> mouseY </strong>, permitindo 
      que a câmera siga o movimento do mouse.
-    
+  <br>
+  <br>
+    <strong> Imagens do jogo com os script explicados: </strong>
+  <br>
+  ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/a5ff9cb4-893f-4098-8720-86ff06839d1d)
+  ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/2db19d61-ba56-4596-bf1b-6c8fc36f735e)
+
   </li> </ul>
   <br>
   <h3> Sobre a iluminação </h3>
   <br>
+  Na iluminação utilizamos o pointlights no carro para ser os farol (curiosidade: a luz do farol da esquerda é maior que a da direita, assim como é na vida real). 
+  Imagem demonstrando isto: ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/2bad2ce9-a909-4fc4-8a2d-b1085fe10982)
+  <br>
+  E Temos também o directional light do sol para iluminação total do jogo. Imagem que demonstra isso: 
+  <br>
+  ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/f7c95e3c-600f-4f27-8679-445151ba916d)
+<br>
+![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/6ca82843-53ed-495f-9645-a3461ef0d5dd)
+
+<h1> Contudo concluímos nosso jogo! Espero que gostem bastante e se quiserem reproduzir estão livres desde que deem os devidos crétidos</h1>
   
 
