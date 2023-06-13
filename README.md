@@ -102,6 +102,6 @@ de raycast e iluminação sendo como bases principais para o desenvolvimento do 
 <br>
 ![image](https://github.com/Isabele-Timotio/DaniloIsabele/assets/101645908/6ca82843-53ed-495f-9645-a3461ef0d5dd)
 
-<h2> Contudo concluímos nosso jogo! Espero que gostem bastante e se quiserem reproduzir estão livres desde que deem os devidos crétidos</h2>
+<h2> Contudo concluímos nosso jogo! Espero que gostem bastante e se quiserem reproduzir estão livres desde que deem os devidos créditos</h2>
   
 
